@@ -1,0 +1,53 @@
+---
+title: "MSc Info"
+author: "Lex Comber"
+date: "26/09/2017"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Context for My work
+
+ + **ALL** data are spatial
+    * temporal as well
+ + The development of **Methods** for analysing spatial data **lags behind** our ability produce the high volumes of data 
+ + Anyone can make a map    
+ + ... therefore as GI Scientists we have to think about the spatial value we can add to data analyses
+ 
+## My work
+
+ + Develop and extend methods for the analysis of **spatial** data
+ + Applications in a wide variety of subject areas 
+    * Health, Socio-economic, House Prices
+    * Environmental, land cover / land use, Remote Sensing
+ + Focus on a number of **core** GIS / spatial data issues
+    * Uncertainty, Data Quality, data semantics (what the data *mean*)
+    * Fuzzy sets, Bayesian methods, Dempster-Shafer
+ + can see these in my publications <https://scholar.google.co.uk/citations?user=4UOzTkMAAAAJ&hl=en&oi=sra>.
+
+## My Ethos
+
+ + Open Source:
+    * QGIS: <http://www.qgis.org/>
+    * R: <https://cran.r-project.org> 
+    * RStudio: <https://www.rstudio.com>
+ + Free, powerful, leading edge, reproducible
+ + I try to live in the **Tidyverse**: <https://www.tidyverse.org>
+
+## I really like R
+ + Book on how to use R for spatial analysis and mapping
+    * second edition next year
+    * https://uk.sagepub.com/en-gb/eur/an-introduction-to-r-for-spatial-analysis-and-mapping/book241031
+ + New book *An Introduction to Big Data and Spatial Data Analytics in R* 
+    * finished by April 2018
+ + I share my code using GitHub: <https://github.com/lexcomber>
+
+## Final message
+ + As GIS experts you should be looking to do more than make maps
+ + Your focus should be on explicitly spatial methods of analysis
+    * ***Spatial Analysis***
+ + And don't assume that just because your data is spatial that your analysis of it is a **spatial analysis**
+
